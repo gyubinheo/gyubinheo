@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hello,%20I%20am&height=150&fontSize=60&desc=Web%20developer%20and&descAlignY=75&descAlign=60" />
+ </div>
+
 
 ## My Skill Set  
 <div align="center">  
@@ -21,10 +25,10 @@
 ## Connect with me  
 <div align="center">
   <a href="https://gjrbqls@gmail.com" target="_blank">
-    <img src=https://img.shields.io/badge/gmail-%2324292e.svg?&style=for-the-badge&logo=gmail&logoColor=#EA4335& style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white style="margin-bottom: 5px;" />
   </a>
   <a href="https://velog.io/@gyuls" target="_blank">
-    <img src=https://img.shields.io/badge/velog-%2324292e.svg?&style=for-the-badge&logo=velog&logoColor=#20C997 style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white style="margin-bottom: 5px;" />
   </a>
   <a href="https://github.com/gyubinheo" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white style="margin-bottom: 5px;" />
@@ -38,6 +42,11 @@
 ## Github Stats  
 <div align="right"><img src="https://github-readme-stats.vercel.app/api?username=gyubinheo&show_icons=true&count_private=true&hide_border=true" align="right" /></div> 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyubinheo&hide_border=true&layout=compact" align="center" /></div>  
+
+<br/>
+
+## Baekjoon Rank
+<div align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gyubin" /></div>
 
 <br/>
 <br/>  
